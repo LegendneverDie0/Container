@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(220, 129, 129);
+}
+
+.h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+
+}
+
+.speyn {
+    color: yellow;
+}
+
+.dev {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+
+.bex {
+    font-size: 25px;
+
+}
+
+.dev2 {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 100px;
+}
+.div1 {
+    color: white;
+    width: 300px;
+    text-align: center;
+    margin-top: 100px;
+    background-color: black;
+}
+
+
+.vui{
+    background-color: black;
+}
